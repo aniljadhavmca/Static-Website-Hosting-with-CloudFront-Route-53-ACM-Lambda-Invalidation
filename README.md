@@ -10,6 +10,11 @@ https://aniljadhav.co.in
 
 is built using a private Amazon S3 bucket, delivered globally through CloudFront CDN, secured with SSL via AWS Certificate Manager, and automated with Lambda to handle cache invalidation whenever content is updated.
 
+## 🏗 Architecture Diagram
+
+![AWS Static Website Architecture](https://raw.githubusercontent.com/aniljadhavmca/Static-Website-Hosting-with-CloudFront-Route-53-ACM-Lambda-Invalidation/main/CloudFront,%20Route%2053,%20ACM%20%26%20Lambda%20Invalidation.png)
+
+
 ### 🌎 Amazon CloudFront (CDN)
 
 CloudFront is a Content Delivery Network (CDN).
